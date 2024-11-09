@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\vs2022\\Course\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|e:\\vs2022\\course\\course\\areas\\dashboard\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|solutionrelative:course\\areas\\dashboard\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|e:\\vs2022\\course\\course\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|solutionrelative:course\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|e:\\vs2022\\course\\course\\areas\\dashboard\\views\\book\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|solutionrelative:course\\areas\\dashboard\\views\\book\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|e:\\vs2022\\course\\course\\areas\\dashboard\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|solutionrelative:course\\areas\\dashboard\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|e:\\vs2022\\course\\course\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|solutionrelative:course\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|e:\\vs2022\\course\\course\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|solutionrelative:course\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|e:\\vs2022\\course\\course\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|solutionrelative:course\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|e:\\vs2022\\course\\course\\pages\\shared\\_coustomlayuot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|solutionrelative:course\\pages\\shared\\_coustomlayuot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|e:\\vs2022\\course\\course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|solutionrelative:course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|e:\\vs2022\\course\\course\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|solutionrelative:course\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|e:\\vs2022\\course\\course\\migrations\\20241108172555_8-11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|solutionrelative:course\\migrations\\20241108172555_8-11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|e:\\vs2022\\course\\course\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|solutionrelative:course\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|e:\\vs2022\\course\\course\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|solutionrelative:course\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|e:\\vs2022\\course\\course\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|solutionrelative:course\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|e:\\vs2022\\course\\course\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|solutionrelative:course\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|e:\\vs2022\\course\\course\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|solutionrelative:course\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|e:\\vs2022\\course\\course\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|solutionrelative:course\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|e:\\vs2022\\course\\course\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|solutionrelative:course\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|e:\\vs2022\\course\\course\\pages\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|solutionrelative:course\\pages\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|e:\\vs2022\\course\\course\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|solutionrelative:course\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|e:\\vs2022\\course\\course\\pages\\shared\\_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|solutionrelative:course\\pages\\shared\\_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|e:\\vs2022\\course\\course\\pages\\shared\\_coustomlayuot.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|solutionrelative:course\\pages\\shared\\_coustomlayuot.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|e:\\vs2022\\course\\course\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|solutionrelative:course\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|e:\\vs2022\\course\\course\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|solutionrelative:course\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|e:\\vs2022\\course\\course\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|solutionrelative:course\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|e:\\vs2022\\course\\course\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|solutionrelative:course\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|e:\\vs2022\\course\\course\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FEC8FFD8-EEE6-4EA8-BC55-90B1A8526625}|Course\\Course.csproj|solutionrelative:course\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "E:\\vs2022\\Course\\Course\\Areas\\dashboard\\Views\\Book\\Update.cshtml",
+              "RelativeDocumentMoniker": "Course\\Areas\\dashboard\\Views\\Book\\Update.cshtml",
+              "ToolTip": "E:\\vs2022\\Course\\Course\\Areas\\dashboard\\Views\\Book\\Update.cshtml",
+              "RelativeToolTip": "Course\\Areas\\dashboard\\Views\\Book\\Update.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACYAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T18:09:42.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\vs2022\\Course\\Course\\appsettings.json",
+              "RelativeDocumentMoniker": "Course\\appsettings.json",
+              "ToolTip": "E:\\vs2022\\Course\\Course\\appsettings.json",
+              "RelativeToolTip": "Course\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T14:16:19.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\vs2022\\Course\\Course\\Program.cs",
+              "RelativeDocumentMoniker": "Course\\Program.cs",
+              "ToolTip": "E:\\vs2022\\Course\\Course\\Program.cs",
+              "RelativeToolTip": "Course\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:16:34.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\vs2022\\Course\\Course\\Areas\\dashboard\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Course\\Areas\\dashboard\\Views\\Book\\Index.cshtml",
+              "ToolTip": "E:\\vs2022\\Course\\Course\\Areas\\dashboard\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Course\\Areas\\dashboard\\Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T17:30:51.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\vs2022\\Course\\Course\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Course\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "E:\\vs2022\\Course\\Course\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Course\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T17:00:34.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "E:\\vs2022\\Course\\Course\\Areas\\dashboard\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Course\\Areas\\dashboard\\Controllers\\BookController.cs",
+              "ToolTip": "E:\\vs2022\\Course\\Course\\Areas\\dashboard\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Course\\Areas\\dashboard\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:28:31.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_CoustomLayuot.cshtml",
+              "DocumentMoniker": "E:\\vs2022\\Course\\Course\\Pages\\Shared\\_CoustomLayuot.cshtml",
+              "RelativeDocumentMoniker": "Course\\Pages\\Shared\\_CoustomLayuot.cshtml",
+              "ToolTip": "E:\\vs2022\\Course\\Course\\Pages\\Shared\\_CoustomLayuot.cshtml",
+              "RelativeToolTip": "Course\\Pages\\Shared\\_CoustomLayuot.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAADwv0gAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T16:46:03.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\vs2022\\Course\\Course\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "Course\\Model\\Book.cs",
+              "ToolTip": "E:\\vs2022\\Course\\Course\\Model\\Book.cs",
+              "RelativeToolTip": "Course\\Model\\Book.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:07:06.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\vs2022\\Course\\Course\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Course\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "E:\\vs2022\\Course\\Course\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Course\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T17:00:23.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241108172555_8-11.cs",
+              "DocumentMoniker": "E:\\vs2022\\Course\\Course\\Migrations\\20241108172555_8-11.cs",
+              "RelativeDocumentMoniker": "Course\\Migrations\\20241108172555_8-11.cs",
+              "ToolTip": "E:\\vs2022\\Course\\Course\\Migrations\\20241108172555_8-11.cs",
+              "RelativeToolTip": "Course\\Migrations\\20241108172555_8-11.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:25:55.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "E:\\vs2022\\Course\\Course\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "Course\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "E:\\vs2022\\Course\\Course\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "Course\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:18:55.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\vs2022\\Course\\Course\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Course\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\vs2022\\Course\\Course\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Course\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:16:44.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\vs2022\\Course\\Course\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Course\\Pages\\Privacy.cshtml",
+              "ToolTip": "E:\\vs2022\\Course\\Course\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Course\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T17:18:55.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\vs2022\\Course\\Course\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Course\\Pages\\Index.cshtml.cs",
+              "ToolTip": "E:\\vs2022\\Course\\Course\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Course\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:18:55.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\vs2022\\Course\\Course\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Course\\Pages\\Index.cshtml",
+              "ToolTip": "E:\\vs2022\\Course\\Course\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Course\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T17:18:54.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "E:\\vs2022\\Course\\Course\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "Course\\Pages\\Error.cshtml.cs",
+              "ToolTip": "E:\\vs2022\\Course\\Course\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "Course\\Pages\\Error.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:18:54.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\vs2022\\Course\\Course\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Course\\Pages\\Error.cshtml",
+              "ToolTip": "E:\\vs2022\\Course\\Course\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Course\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T17:18:54.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Navbar.cshtml",
+              "DocumentMoniker": "E:\\vs2022\\Course\\Course\\Pages\\Shared\\_Navbar.cshtml",
+              "RelativeDocumentMoniker": "Course\\Pages\\Shared\\_Navbar.cshtml",
+              "ToolTip": "E:\\vs2022\\Course\\Course\\Pages\\Shared\\_Navbar.cshtml",
+              "RelativeToolTip": "Course\\Pages\\Shared\\_Navbar.cshtml",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAAAKoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T16:56:18.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Menu.cshtml",
+              "DocumentMoniker": "E:\\vs2022\\Course\\Course\\Pages\\Shared\\_Menu.cshtml",
+              "RelativeDocumentMoniker": "Course\\Pages\\Shared\\_Menu.cshtml",
+              "ToolTip": "E:\\vs2022\\Course\\Course\\Pages\\Shared\\_Menu.cshtml",
+              "RelativeToolTip": "Course\\Pages\\Shared\\_Menu.cshtml",
+              "ViewState": "AQIAAKkBAAAAAAAAAAAAAL4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T16:58:17.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\vs2022\\Course\\Course\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Course\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\vs2022\\Course\\Course\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Course\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T17:00:17.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_CoustomLayuot.cshtml.cs",
+              "DocumentMoniker": "E:\\vs2022\\Course\\Course\\Pages\\Shared\\_CoustomLayuot.cshtml.cs",
+              "RelativeDocumentMoniker": "Course\\Pages\\Shared\\_CoustomLayuot.cshtml.cs",
+              "ToolTip": "E:\\vs2022\\Course\\Course\\Pages\\Shared\\_CoustomLayuot.cshtml.cs",
+              "RelativeToolTip": "Course\\Pages\\Shared\\_CoustomLayuot.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:59:32.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "E:\\vs2022\\Course\\Course\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Course\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "E:\\vs2022\\Course\\Course\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Course\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-08T16:59:16.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\vs2022\\Course\\Course\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Course\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\vs2022\\Course\\Course\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Course\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T16:46:17.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "E:\\vs2022\\Course\\Course\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Course\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "E:\\vs2022\\Course\\Course\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Course\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:07:52.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\vs2022\\Course\\Course\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Course\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "E:\\vs2022\\Course\\Course\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Course\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T16:07:40.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "E:\\vs2022\\Course\\Course\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Course\\ScaffoldingReadMe.txt",
+              "ToolTip": "E:\\vs2022\\Course\\Course\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Course\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-08T13:29:21.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\vs2022\\Course\\Course\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Course\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "E:\\vs2022\\Course\\Course\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Course\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T13:22:17.758Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
